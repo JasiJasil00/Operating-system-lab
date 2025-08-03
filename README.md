@@ -31,13 +31,3 @@ This repository contains my implementation of an Experimental Operating System (
 - Understood file management at the filesystem level
 
 ---
-
-## 📂 Folder Structure
-myexpos/
-├── stage_1/
-│ └── script.sh
-| └── assg.sh
-├── xfs-interface/
-│ └── xfs-interface (executable)
-├── xsm/
-│ └── xsm (simulator)
