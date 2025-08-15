@@ -30,4 +30,6 @@ This repository contains my implementation of an Experimental Operating System (
   - **Disk Free List** — Blocks previously occupied are now marked free
 - Understood file management at the filesystem level
 
+commands learned chmod +x , ls -l
+
 ---

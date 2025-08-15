@@ -1,0 +1,8 @@
+MOV R0 , 1
+MOV R2 , 21
+PORT P1 , R0
+OUT
+ADD R0, 1
+EQ R2 , R0
+JZ R2 , 514
+HALT
