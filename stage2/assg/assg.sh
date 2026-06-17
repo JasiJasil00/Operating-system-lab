@@ -3,7 +3,7 @@
 cd ~
 
 # Correctly quote the path with spaces
-cd "/mnt/d/nitc curriculum/sem5/OPERATING SYSTEM LAB/myexpos/xfs-interface" 
+cd "/mnt/d/nitc curriculum/sem4/OPERATING SYSTEM LAB/MYEXPOS/xfs-interface" 
 
 ./xfs-interface <<EOF
 fdisk

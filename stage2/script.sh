@@ -4,7 +4,7 @@
 cd ~
 
 
-cd "/mnt/d/nitc curriculum/sem5/OPERATING SYSTEM LAB/myexpos/xfs-interface"
+cd "/mnt/d/nitc curriculum/sem4/OPERATING SYSTEM LAB/myexpos/xfs-interface"
 ./xfs-interface <<EOF
 fdisk
 load --data ../stage2/sample.dat
